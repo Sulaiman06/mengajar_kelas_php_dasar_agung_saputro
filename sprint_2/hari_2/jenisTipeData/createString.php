@@ -10,7 +10,7 @@ var_dump($alamat);
 // Langsung Eksekusi / Perintah Untuk Menampilkan Tulisan
 echo "Umur Saya Adalah 20 Tahun %#%^*! \n";
 
-// Heredoc - Bisa Membuat Baris Baru Dengan Kita Tulis Dibawahnya
+// Heredoc / Multiline - Bisa Membuat Baris Baru Dengan Kita Tulis Dibawahnya
 $alamat = <<<BAMBANG
 Indonesia - Negara Ku 48@&*^&%^,
 Jakarta Timur - Kota Ku,
